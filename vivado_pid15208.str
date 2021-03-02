@@ -1849,3 +1849,18 @@ dismissDialog("Program Device"); // bC (cs)
 // Tcl Message: INFO: [Labtools 27-1434] Device xc7a35t (JTAG device index = 0) is programmed with a design that has no supported debug core(s) in it. 
 // 'I' command handler elapsed time: 3 seconds
 dismissDialog("Program Device"); // bz (cs)
+// HMemoryUtils.trashcanNow. Engine heap size: 1,961 MB. GUI used memory: 91 MB. Current time: 3/2/21, 10:44:53 AM PST
+// TclEventType: HW_TARGET_NEEDS_CLOSE
+// TclEventType: HW_TARGET_CLOSE
+// TclEventType: HW_SYSMON_DELETE
+// TclEventType: HW_TARGET_UPDATE
+// TclEventType: DEBUG_PROBE_DELETE
+// Tcl Message: ERROR: [Labtoolstcl 44-513] HW Target shutdown. Closing target: localhost:3121/xilinx_tcf/Digilent/210183AF2EEEA 
+// TclEventType: HW_SERVER_UPDATE
+// n (cs): Close Hardware Target: addNotify
+// Elapsed time: 572 seconds
+selectButton(PAResourceAtoD.CmdMsgDialog_OK, "OK"); // f (n)
+dismissDialog("Close Hardware Target"); // n (cs)
+// HMemoryUtils.trashcanNow. Engine heap size: 1,961 MB. GUI used memory: 91 MB. Current time: 3/2/21, 11:14:53 AM PST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,961 MB. GUI used memory: 91 MB. Current time: 3/2/21, 11:44:54 AM PST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,961 MB. GUI used memory: 90 MB. Current time: 3/2/21, 12:14:54 PM PST
