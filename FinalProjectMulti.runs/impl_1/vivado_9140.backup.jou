@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Mar  1 22:05:05 2021
+# Process ID: 9140
+# Current directory: C:/Users/tanru/OneDrive/Desktop/FinalProjectMulti/FinalProjectMulti.runs/impl_1
+# Command line: vivado.exe -log OTTER_Wrapper_VGA80x60.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source OTTER_Wrapper_VGA80x60.tcl -notrace
+# Log file: C:/Users/tanru/OneDrive/Desktop/FinalProjectMulti/FinalProjectMulti.runs/impl_1/OTTER_Wrapper_VGA80x60.vdi
+# Journal file: C:/Users/tanru/OneDrive/Desktop/FinalProjectMulti/FinalProjectMulti.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source OTTER_Wrapper_VGA80x60.tcl -notrace
